@@ -1,0 +1,6 @@
+Credentials cache: API:201BB6EF-ED8C-42A0-B089-16D78A528C02
+        Principal: mdilapi@42.FR
+
+  Issued                Expires               Principal
+Apr  9 13:48:15 2018  Apr 16 13:48:09 2018  krbtgt/42.FR@42.FR
+Apr  9 13:48:57 2018  Apr 16 13:48:09 2018  host/vgs-fn1.42.fr@42.FR
